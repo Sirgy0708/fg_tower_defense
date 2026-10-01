@@ -23,3 +23,7 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
+
+
+## Link til spørgeskema
+https://efif-my.sharepoint.com/:x:/r/personal/fg24shpank_frsgym_dk/Documents/UEQ_Data_Analysis_Tool_V14.xlsx?d=wf40b9cbcf88646818788f03417e7699f&csf=1&web=1&e=eI0OiE
